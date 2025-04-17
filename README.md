@@ -22,7 +22,8 @@ I’m currently working on:<br>Sharpening my full-stack development skills while
 [![](https://visitcount.itsvg.in/api?id=eramjabeen1&icon=0&color=1)](https://visitcount.itsvg.in)
 
   ##  Hey! I’m on a mission to building something meaningful and if you feel inspired to support that journey, thank you!!
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/eramjabeen) 
+  (https://buymeacoffee.com/eramjabeen)
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
