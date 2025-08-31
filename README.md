@@ -32,7 +32,7 @@ Agile & Scrum • Test-Driven Development • Clean Code • UX-focused Design
 
 ## Fun Side of Me
 - I like mixing **discipline & creativity**: MMA, archery, and sword yoga sharpen my focus both in and out of code  
-- I believe in **purpose-driven tech** — tools that don’t just work, but make people’s lives easier and better  
+- I believe in **purpose-driven tech** tools that don’t just work, but make people’s lives easier and better  
 
 ---
 
