@@ -1,5 +1,40 @@
-# About Me:
-I’m currently working on:<br>Sharpening my full-stack development skills while balancing solo parenthood and a full-time software engineering bootcamp. I’m building real-world projects using JavaScript, React, Node.js, and MongoDB.<br><br>I’m looking to collaborate on:<br>Purpose-driven projects that empower beginners in tech, support mental wellness, or bridge career gaps through community and code.<br><br>I’m looking for help with:<br>Improving my technical portfolio, practicing technical interviews, and learning how to communicate complex logic in simpler ways.<br><br>I’m currently learning:<br>RESTful API development with Node.js and Express, MongoDB database design, and JavaScript fundamentals with a focus on clean code.<br><br>Ask me about:<br>Rebuilding into tech after a long gap post–Computer Science degree, managing parenthood while leveling up in code.<br><br>Fun fact:<br>I train in mixed martial arts(Muay Thai is my favorite) and practice archery, my hobbies help me stay grounded, disciplined, and creative both in and out of code.
+# Hey, I’m Eram Jabeen  
+**Full-Stack Software Engineer | MERN Stack | CS Grad | Cloud Learner**
+
+---
+
+## Current Focus
+- Sharpening full-stack development with **React, Node.js, Express, MongoDB**
+- Exploring **REST APIs, cloud fundamentals (AWS, Azure, GCP)**, and modern deployment tools
+- Building projects that blend **career empowerment, wellness, and tech education**
+
+---
+
+## Tech Stack
+**Languages & Frameworks**  
+JavaScript (ES6+), TypeScript, Java, Python, React, Node.js, Express.js, MongoDB, HTML5, CSS3  
+
+**Tools & Platforms**  
+Git, GitHub, REST APIs, Postman, Docker (learning), AWS, Google Cloud, Microsoft Azure  
+
+**Practices**  
+Agile & Scrum • Test-Driven Development • Clean Code • UX-focused Design  
+
+---
+
+##  Featured Projects
+ **RiseKit** – MERN app for journaling, mood tracking & imposter syndrome support  
+ **Interview Prep App** – Practice behavioral & technical interview questions using STAR method  
+ **Tech Bucket List API** – RESTful API for tracking career & learning goals  
+  
+
+---
+
+## Fun Side of Me
+- I like mixing **discipline & creativity**: MMA, archery, and sword yoga sharpen my focus both in and out of code  
+- I believe in **purpose-driven tech** — tools that don’t just work, but make people’s lives easier and better  
+
+---
 
 
 ##  Socials:
